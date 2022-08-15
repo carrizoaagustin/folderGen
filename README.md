@@ -6,6 +6,7 @@ You can create directory from creationFile and create templates scanning a direc
 
 # Commands examples
 folderGen create -f "B:\generadoresCarpeta\genCarpetaFac.json"
+
 folderGen get -d "B:\Universidad\template" -o templateCarpetasFacultad -l B:/Universidad
 
 -f path for creationFile
