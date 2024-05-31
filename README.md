@@ -15,7 +15,7 @@ folderGen get -d "B:\Universidad\template" -o templateCarpetasFacultad -l B:/Uni
 -l location for save
 
 # Formatt Creation File
-
+```json
 {
   "RootPaths": [
     "B:/Universidad/Cuarto Año/2do Cuatrimestre/Transmision De Datos/1-Teoria",
@@ -23,9 +23,9 @@ folderGen get -d "B:\Universidad\template" -o templateCarpetasFacultad -l B:/Uni
   ],
   "TemplatePath": "B:/generadoresCarpeta/Templates/templateCarpetasTeoria.json"
 }
-
+```
 # Formatt template file
-
+```json
 {
  "Name": "",
  "SubFolders": [
@@ -196,3 +196,4 @@ folderGen get -d "B:\Universidad\template" -o templateCarpetasFacultad -l B:/Uni
   }
  ]
 }
+```
